@@ -1,0 +1,1 @@
+INSERT INTO spring_cache.employee (lastName, email, gender, d_id) VALUES ('陈佳康', '171197003@qq.com', 1, 1);
